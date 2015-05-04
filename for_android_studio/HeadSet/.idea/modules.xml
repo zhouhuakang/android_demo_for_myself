@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HeadSet.iml" filepath="$PROJECT_DIR$/HeadSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/headset/headset.iml" filepath="$PROJECT_DIR$/headset/headset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/htmltextview/htmltextview.iml" filepath="$PROJECT_DIR$/htmltextview/htmltextview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/setpregister/setpregister.iml" filepath="$PROJECT_DIR$/setpregister/setpregister.iml" />
+    </modules>
+  </component>
+</project>
+
