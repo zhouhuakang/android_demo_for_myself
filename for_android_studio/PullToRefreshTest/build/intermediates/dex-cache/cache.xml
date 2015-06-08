@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zhouhuakang/AndroidStudioProjects/PullToRefreshTest/app/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="307c1cc532eabbf1d135b43e5c983c9da700449d">
+        <dex dex="/Users/zhouhuakang/AndroidStudioProjects/PullToRefreshTest/app/build/intermediates/pre-dexed/debug/android-support-v4-9470f9f0e4c3c6612d10f0b10829654644f052af.jar" />
+    </item>
+
+</items>
